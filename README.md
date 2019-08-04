@@ -1,3 +1,6 @@
+# Autumn has moved to https://github.com/norswap/autumn
+# Please update your stars / forks.
+
 # Autumn
 
 - [Maven Dependency][jitpack]
